@@ -24,40 +24,40 @@ Here, I have solution of 25 Problems that was given in my Structured Programming
 18. Find factorial using a function
 19. Find the Length of a String using a function
 20. Reverse array using function
-21. Print the following pattern [n=3]
-    ```
+21. Print the following pattern
+```
       1
     2 1 2
   3 2 1 2 3
-    ```
+```
 22. Print the following pattern [n=5]
-    ```
+```
       *
     * *
   *   *
     * *
       *
-    ```
+```
 23. Print the following pattern [n=3]
-    ```
+```
       *
     ***  
   *****
-    ```
+```
 24. Print the following pattern [n=5]
-    ```
+```
       1
      12
     123
    1234
   12345
-    ```
+```
 25. Print the following pattern [n=4]
-    ```
+```
     ****
     ***
     **
     *
-    ```
+```
 
 ---
